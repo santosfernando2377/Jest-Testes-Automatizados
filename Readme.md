@@ -8,6 +8,10 @@ Para rodar o teste faça um clone do repositório `'git clone https://github.com
 
 Após instalar as dependências no terminal você vai digital o seguinte comando para executar o teste `'npm test'`
 
+### Executando os testes
+
+![Executando os testes](https://raw.githubusercontent.com/santosfernando2377/Jest-Testes-Automatizados/main/view.gif)
+
 ## Requisitos
 
 Para que as orientações acima funcione é necessário que você instale o [NodeJS](https://nodejs.org/en/)
